@@ -1,0 +1,18 @@
+I feel that 300-level courses are the most challenging.
+
+It's no longer 'hold-your-hand' time like in intro programming. This is where you learn about software design patterns and practices as well as algorithms and data structures. The main difference in these classes with intro programming is that you must be more proactive and study and prove to yourself you understand a topic.
+
+- no more worksheets that tell you what to study
+- how do you test for correctness?
+- how do you know you have enough test cases?
+- may have to look online if textbook doesn't explain nicely
+- programming something solidifies your understanding. 
+
+TIPS:
+- draw pictures
+- think of small scale version of a problem
+- don't be afraid to restart. [erasing your code and starting from scratch might be easier than spending hours looking for 1 bug]
+
+
+
+==== I know this is very vague advice ====
