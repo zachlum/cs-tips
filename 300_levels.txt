@@ -11,7 +11,7 @@ yourself you understand a topic.
 - how do you test for correctness?
 - how do you know you have enough test cases?
 - may have to look online if textbook doesn't explain nicely
-- programming something solidifies your understanding. 
+- programming something solidifies your understanding. (should be conflict here)
 
 TIPS:
 - draw pictures
@@ -20,6 +20,11 @@ TIPS:
     [erasing your code and starting from scratch 
     might be easier than spending hours looking for 1 bug]
 
-
+- A good habit is to be able to analyze tradeoffs of a solution/system.
+  Learn to understand which aspects are affected.
+  For example:
+  In Network multiplexing (multiple users sharing a line) there are two scenarios:
+  (1) Time Division Multiplexing (TDM): users take turn with 100% of the channel
+  (2) Frequency Division Multiplexing (FDM): all users get to make progress continuously (but at a slower rate)
 
 ==== I know this is very vague advice ====
