@@ -11,7 +11,7 @@ yourself you understand a topic.
 - how do you test for correctness?
 - how do you know you have enough test cases?
 - may have to look online if textbook doesn't explain nicely
-- programming something solidifies your understanding. 
+- programming something solidifies your understanding (often times...)
 
 TIPS:
 - draw pictures
